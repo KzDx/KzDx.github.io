@@ -1,0 +1,71 @@
+baseURL: http://example.org/
+languageCode: es-ES
+title: KzDx
+theme: coder
+defaultContentLanguage: en
+paginate: 20
+pygmentsStyle: bw
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+enableEmoji: true
+disqusShortname: yourdiscussshortname
+
+# Menu links
+menu:
+  main:
+    - identifier: Biografía
+      name: Biografía
+      weight: 1
+      url: biografia/
+    - identifier: Especialidades
+      name: Especialidades
+      weight: 2
+      url: especialidades/
+    - identifier: Proyectos
+      name: Proyectos
+      weight: 2
+      url: proyectos/
+    - identifier: Contacto
+      name: Contacto
+      weight: 2
+      url: contacto/
+
+params:
+  author: KzDx
+  info: Programador
+  since: 2000
+  avatarurl: "https://avatars.githubusercontent.com/u/67365067?v=4"
+  enableTwemoji: true
+  colorScheme: auto
+  hidecolorschemetoggle: false
+  social:
+    - identifier: Github
+      name: Github
+      icon: fa fa-github fa-2x
+      weight: 1
+      url: https://github.com/johndoe/
+    - identifier: Gitlab
+      name: Gitlab
+      icon: fa fa-instagram fa-2x
+      weight: 2
+      url: https://gitlab.com/johndoe/
+    - identifier: Twitter
+      name: Twitter
+      icon: fa fa-twitter fa-2x
+      weight: 3
+      url: https://twitter.com/johndoe/
+    - identifier: facebook
+      name: Facebook
+      icon: fa fa-facebook fa-2x
+      weight: 3
+      url: https://twitter.com/johndoe/
+
+
+#       Crea tu propio sitio web.
+# Una foto profesional.
+# Tu biografía.
+# Tus especialidades.
+# Tus proyectos.
+# Tus datos de contacto.
+# Incluye tu currículum como PDF.
+# Plus: Extras que sumarán muchos puntos a tu marca personal.
