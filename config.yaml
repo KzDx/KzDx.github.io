@@ -32,7 +32,7 @@ menu:
 
 params:
   author: KzDx
-  info: Programador
+  info: Programador(Backend) futuro(FullStack)
   since: 2000
   avatarurl: "https://avatars.githubusercontent.com/u/67365067?v=4"
   enableTwemoji: true
@@ -43,29 +43,20 @@ params:
       name: Github
       icon: fa fa-github fa-2x
       weight: 1
-      url: https://github.com/johndoe/
-    - identifier: Gitlab
-      name: Gitlab
+      url: https://github.com/KzDx/
+    - identifier: Instagram
+      name: Instagram
       icon: fa fa-instagram fa-2x
       weight: 2
-      url: https://gitlab.com/johndoe/
+      url: https://instagram.com/
     - identifier: Twitter
       name: Twitter
       icon: fa fa-twitter fa-2x
       weight: 3
-      url: https://twitter.com/johndoe/
+      url: https://twitter.com/
     - identifier: facebook
       name: Facebook
       icon: fa fa-facebook fa-2x
       weight: 3
-      url: https://twitter.com/johndoe/
+      url: https://facebook.com/
 
-
-#       Crea tu propio sitio web.
-# Una foto profesional.
-# Tu biografía.
-# Tus especialidades.
-# Tus proyectos.
-# Tus datos de contacto.
-# Incluye tu currículum como PDF.
-# Plus: Extras que sumarán muchos puntos a tu marca personal.
