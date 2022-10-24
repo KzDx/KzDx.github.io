@@ -9,5 +9,7 @@ node_modules
 dist
 tmp
 
+package-lock.json
+
 # Temporary lock file while building
 /.hugo_build.lock
