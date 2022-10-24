@@ -1,0 +1,62 @@
+baseURL: https://KzDx.github.io/
+languageCode: es-ES
+title: KzDx
+theme: coder
+defaultContentLanguage: en
+paginate: 20
+pygmentsStyle: bw
+pygmentsCodeFences: true
+pygmentsCodeFencesGuessSyntax: true
+enableEmoji: true
+disqusShortname: yourdiscussshortname
+
+# Menu links
+menu:
+  main:
+    - identifier: Biografía
+      name: Biografía
+      weight: 1
+      url: biografia/
+    - identifier: Especialidades
+      name: Especialidades
+      weight: 2
+      url: especialidades/
+    - identifier: Proyectos
+      name: Proyectos
+      weight: 2
+      url: proyectos/
+    - identifier: Contacto
+      name: Contacto
+      weight: 2
+      url: contacto/
+
+params:
+  author: KzDx
+  info: Programador(Backend) futuro(FullStack)
+  since: 2000
+  avatarurl: "https://avatars.githubusercontent.com/u/67365067?v=4"
+  enableTwemoji: true
+  colorScheme: auto
+  hidecolorschemetoggle: false
+  social:
+    - identifier: Github
+      name: Github
+      icon: fa fa-github fa-2x
+      weight: 1
+      url: https://github.com/KzDx/
+    - identifier: Instagram
+      name: Instagram
+      icon: fa fa-instagram fa-2x
+      weight: 2
+      url: https://instagram.com/
+    - identifier: Twitter
+      name: Twitter
+      icon: fa fa-twitter fa-2x
+      weight: 3
+      url: https://twitter.com/
+    - identifier: facebook
+      name: Facebook
+      icon: fa fa-facebook fa-2x
+      weight: 3
+      url: https://facebook.com/
+
